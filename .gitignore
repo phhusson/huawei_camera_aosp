@@ -1,0 +1,5 @@
+baksmali*.jar
+smali*.jar
+*.apk
+out
+classes.dex
