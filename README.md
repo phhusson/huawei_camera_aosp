@@ -1,10 +1,8 @@
 Whats doesn't work:
-
- - Saving the shot as jpeg. Only raw works.
-
+- Portrait mode
 
 What works:
-HDR capture, video capture, ..
+normal photo, wide apperture, RAW, ...HDR capture, video capture, ..
 
 Usage:
 
