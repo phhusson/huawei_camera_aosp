@@ -42,5 +42,5 @@ mkdir -p lib/armeabi-v7a
 cp $1/lib/libHwPostCamera_jni.so lib/armeabi-v7a/
 cp $1/priv-app/HwCamera2/lib/arm/* lib/armeabi-v7a/
 zip HwCamera2.apk classes.dex
-zip -0 HwCamera2.apk lib/armeabi-v7a/*
+#zip -0 HwCamera2.apk lib/armeabi-v7a/*
 signapk $2/shared.x509.pem $2/shared.pk8 HwCamera2.apk HwCamera2.signed.apk
